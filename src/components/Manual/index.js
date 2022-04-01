@@ -7,8 +7,8 @@ const Manual = ()=>{
         <div className="box">
             <h4>Manual do Usuário</h4>
             <ul className="manual">
-                <li><a href="#"><AiOutlineFilePdf/></a></li>
-                <li><a href="#">Manual</a></li>
+                <li><a href="../../docs/teste.pdf" download><AiOutlineFilePdf/></a></li>
+                <li><a href="../../docs/teste.pdf" download>Manual</a></li>
             </ul>
         </div>
     )
