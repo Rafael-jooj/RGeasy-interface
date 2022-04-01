@@ -1,0 +1,15 @@
+.title{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.itens{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: left;
+    width: 70%;
+    font-size: 18px;
+}
+.itens ul{
+    list-style: none;
+}

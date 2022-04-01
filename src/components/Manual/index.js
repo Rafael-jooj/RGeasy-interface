@@ -4,7 +4,7 @@ import { AiOutlineFilePdf } from 'react-icons/ai'
 
 const Manual = ()=>{
     return(
-        <div>
+        <div className="box">
             <h4>Manual do Usuário</h4>
             <ul className="manual">
                 <li><a href="#"><AiOutlineFilePdf/></a></li>

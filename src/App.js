@@ -1,14 +1,11 @@
 import './App.css';
-import Navigator from './components/Navbar';
-import Carrossel from './components/Carrossel';
-import Manual from './components/Manual';
+import React from 'react';
+import Rotas from './routes';
 
 function App() {
   return (
     <div className="App">
-      <Navigator/>
-      <Carrossel/>
-      <Manual/>
+      <Rotas/>
     </div>
   );
 }

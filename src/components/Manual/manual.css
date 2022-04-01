@@ -1,5 +1,5 @@
 h4{
-    margin-top: 20px;
+    padding-top: 20px;
 }
 .manual{
     list-style: none;
@@ -7,4 +7,7 @@ h4{
 .manual li{
     display: inline;
     margin: 1px;
+}
+.box{
+    height: 90px;
 }
