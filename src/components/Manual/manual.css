@@ -1,5 +1,5 @@
-h4{
-    padding-top: 20px;
+.caixa h4{
+    margin-top: 20px;
 }
 .manual{
     list-style: none;
@@ -8,6 +8,7 @@ h4{
     display: inline;
     margin: 1px;
 }
-.box{
+.caixa{
     height: 90px;
+    text-align: center;
 }

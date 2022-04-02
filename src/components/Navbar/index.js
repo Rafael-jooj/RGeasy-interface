@@ -43,7 +43,7 @@ const Navigator = () => {
             navbar
           >
             <NavItem className='item'>
-              <NavLink href="/">
+              <NavLink href="/" active={true}>
                 RGeasy Home
               </NavLink>
             </NavItem>
@@ -58,12 +58,12 @@ const Navigator = () => {
               </NavLink>
             </NavItem>
             <NavItem className='item'>
-              <NavLink href="#">
+              <NavLink href="/sobre">
                 Sobre Nós
               </NavLink>
             </NavItem>
             <NavItem className='item'>
-              <NavLink href="/Contato">
+              <NavLink href="/contato">
                 Contato
               </NavLink>
             </NavItem>
