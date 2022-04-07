@@ -23,6 +23,10 @@ const Navigator = () => {
     setClick((click) => !click)
   }
 
+  function atual(){
+    return true;
+  }
+
     return(
       <div>
       <Navbar
@@ -68,7 +72,7 @@ const Navigator = () => {
               </NavLink>
             </NavItem>
             <NavItem className='item'>
-              <NavLink href="#">
+              <NavLink href="/entrar">
                 Entrar
               </NavLink>
             </NavItem>
