@@ -5,6 +5,7 @@ import Contato from "../screens/Contato";
 import Sobre from "../screens/Sobre";
 import Login from "../screens/Login";
 import Cadastro from "../screens/Cadastro";
+import Especies from "../screens/Especies";
 
 const Rotas= ()=>{
     return(
@@ -15,6 +16,7 @@ const Rotas= ()=>{
                 <Route path="/sobre" element={<Sobre/>}/>
                 <Route path="/entrar" element={<Login/>}/>
                 <Route path="/cadastro" element={<Cadastro/>}/>
+                <Route path="/especies" element={<Especies/>}/>
             </Routes>
         </BrowserRouter>
     )

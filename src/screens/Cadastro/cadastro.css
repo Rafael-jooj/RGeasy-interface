@@ -1,6 +1,10 @@
 .back-cad{
     height: 100vh;
     color: #fff;
+    background-image: url('https://img.freepik.com/fotos-gratis/o-tubo-de-ensaio-contendo-dna_1048-2002.jpg?w=900');
+    background-position: center;
+    background-size: cover;
+    opacity: 0.9;
 }
 .margem{
     margin-left: 20%;
@@ -10,15 +14,10 @@
     width: 100%;
 }
 .fundo{
-    background-image: url('https://img.freepik.com/fotos-gratis/o-tubo-de-ensaio-contendo-dna_1048-2002.jpg?w=900');
-    background-position: center;
-    background-size: cover;
-    width: 100%;
-    height: 100%;
-    opacity: 0.9;
     display: flex;
     justify-content: center;
     align-items: center;
+    height: 90%;
 }
 .caixa2{
     background-color: rgba(17, 17, 17, 0.9);

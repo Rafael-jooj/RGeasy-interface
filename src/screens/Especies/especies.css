@@ -1,22 +1,12 @@
-.title{
-    margin-top: 50px;
-    margin-bottom: 50px;
-    text-align: center;
-}
-.itens{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    text-align: left;
-    width: 70%;
-    font-size: 18px;
-}
-.itens ul{
-    list-style: none; 
-}
-.contatoBack{
+.page{
     height: 100vh;
     background-image: url('https://img.freepik.com/fotos-gratis/fundo-vazio-e-elegante-com-espaco-de-copia_24972-1807.jpg?t=st=1651206336~exp=1651206936~hmac=afc92294b8b430a9f9b4d4d495539044abc27d3c28f9b1440015ec4f9a4b6731&w=1380');
     background-repeat: no-repeat;
     background-size: cover;
+}
+.conteudo{
+    margin-top: 30px;
+}
+.titulo{
+    text-align: center;
 }

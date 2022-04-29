@@ -4,7 +4,7 @@ import Navigator from "../../components/Navbar";
 
 const Contato = ()=>{
     return(
-        <div>
+        <div className="contatoBack">
             <Navigator/>
             <h2 className="title">Universidade Federal do Tacantins - UFT</h2>
             <div className="itens">

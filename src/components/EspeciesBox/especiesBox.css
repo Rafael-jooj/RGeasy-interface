@@ -1,0 +1,10 @@
+.boxContent{
+    border: solid 1px;
+    border-color: #c4c4c4;
+    margin-bottom: 10px;
+}
+.cardText{
+    margin-top: 6%;
+    color: #198754;
+    font-weight: 500;
+}

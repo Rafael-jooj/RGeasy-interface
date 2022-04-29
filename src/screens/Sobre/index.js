@@ -9,7 +9,7 @@ const Sobre = ()=>{
             <Navigator/>
             <div className="box">
             <div className="imagem">
-                <div ><img src="../../images/sobre2.jpg" alt="sobre"/></div> 
+                <div ><img src="https://img.freepik.com/fotos-gratis/executivos-de-startups-discutindo-em-um-cafe_53876-101879.jpg?w=996&t=st=1651210521~exp=1651211121~hmac=964f12d0b86d833b4e1516b134f6112716a2f03865826d256c064d7791dc5991" alt="sobre"/></div> 
             </div>
             <div className="cards">
             <Row>

@@ -42,17 +42,14 @@ const Navigator = () => {
         </NavbarBrand>
         <NavbarToggler onClick={noRefCheck} />
         <Collapse navbar isOpen={click}>
-          <Nav
-            className="me-auto"
-            navbar
-          >
+          <Nav className="me-auto" navbar>
             <NavItem className='item'>
-              <NavLink href="/" active={true}>
+              <NavLink href="/">
                 RGeasy Home
               </NavLink>
             </NavItem>
             <NavItem className='item'>
-              <NavLink href="#">
+              <NavLink href="/especies">
                 Espécies
               </NavLink>
             </NavItem>
